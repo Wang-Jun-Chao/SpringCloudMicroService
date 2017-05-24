@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sample-01/compute-service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-01/erueka-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-02/eureka-feign-02/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-02/eureka-ribbon-02/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-02/erueka-server-02/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-02/compute-service-02/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-03/compute-service-03/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-03/erueka-server-03/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-03/eureka-feign-03/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-03/eureka-ribbon-03/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-04/config-client-04/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-04/config-server-04/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

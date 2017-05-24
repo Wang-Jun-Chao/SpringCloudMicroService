@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" filepath="$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" filepath="$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" filepath="$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" filepath="$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" filepath="$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" filepath="$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" filepath="$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" filepath="$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-02/eureka-feign-02/eureka-feign-02.iml" filepath="$PROJECT_DIR$/sample-02/eureka-feign-02/eureka-feign-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-feign-03/eureka-feign-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-feign-03/eureka-feign-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" filepath="$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-01/sample-01.iml" filepath="$PROJECT_DIR$/sample-01/sample-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-02/sample-02.iml" filepath="$PROJECT_DIR$/sample-02/sample-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-03/sample-03.iml" filepath="$PROJECT_DIR$/sample-03/sample-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-04/sample-04.iml" filepath="$PROJECT_DIR$/sample-04/sample-04.iml" />
+    </modules>
+  </component>
+</project>

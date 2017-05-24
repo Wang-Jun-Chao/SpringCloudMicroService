@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="compute-service-01" />
+        <module name="compute-service-02" />
+        <module name="compute-service-03" />
+        <module name="config-client-04" />
+        <module name="config-server-04" />
+        <module name="erueka-server-01" />
+        <module name="erueka-server-02" />
+        <module name="erueka-server-03" />
+        <module name="eureka-feign-02" />
+        <module name="eureka-feign-03" />
+        <module name="eureka-ribbon-02" />
+        <module name="eureka-ribbon-03" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="compute-service-01" target="1.8" />
+      <module name="compute-service-02" target="1.8" />
+      <module name="compute-service-03" target="1.8" />
+      <module name="config-client-04" target="1.8" />
+      <module name="config-repo-04" target="1.8" />
+      <module name="config-server-04" target="1.8" />
+      <module name="erueka-server-01" target="1.8" />
+      <module name="erueka-server-02" target="1.8" />
+      <module name="erueka-server-03" target="1.8" />
+      <module name="eureka-feign-02" target="1.8" />
+      <module name="eureka-feign-03" target="1.8" />
+      <module name="eureka-ribbon-02" target="1.8" />
+      <module name="eureka-ribbon-03" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
