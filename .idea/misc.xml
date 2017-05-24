@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/sample-03/eureka-ribbon-03/pom.xml" />
         <option value="$PROJECT_DIR$/sample-04/config-client-04/pom.xml" />
         <option value="$PROJECT_DIR$/sample-04/config-server-04/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-05/config-client-05/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-05/config-server-05/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-05/erueka-server-05/pom.xml" />
       </list>
     </option>
   </component>

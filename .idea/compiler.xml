@@ -10,10 +10,13 @@
         <module name="compute-service-02" />
         <module name="compute-service-03" />
         <module name="config-client-04" />
+        <module name="config-client-05" />
         <module name="config-server-04" />
+        <module name="config-server-05" />
         <module name="erueka-server-01" />
         <module name="erueka-server-02" />
         <module name="erueka-server-03" />
+        <module name="erueka-server-05" />
         <module name="eureka-feign-02" />
         <module name="eureka-feign-03" />
         <module name="eureka-ribbon-02" />
@@ -25,11 +28,14 @@
       <module name="compute-service-02" target="1.8" />
       <module name="compute-service-03" target="1.8" />
       <module name="config-client-04" target="1.8" />
+      <module name="config-client-05" target="1.8" />
       <module name="config-repo-04" target="1.8" />
       <module name="config-server-04" target="1.8" />
+      <module name="config-server-05" target="1.8" />
       <module name="erueka-server-01" target="1.8" />
       <module name="erueka-server-02" target="1.8" />
       <module name="erueka-server-03" target="1.8" />
+      <module name="erueka-server-05" target="1.8" />
       <module name="eureka-feign-02" target="1.8" />
       <module name="eureka-feign-03" target="1.8" />
       <module name="eureka-ribbon-02" target="1.8" />

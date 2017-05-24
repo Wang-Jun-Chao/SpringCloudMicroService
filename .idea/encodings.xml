@@ -14,5 +14,8 @@
     <file url="file://$PROJECT_DIR$/sample-04/config-client-04" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-04/config-repo-04" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-04/config-server-04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-05/config-client-05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-05/config-server-05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-05/erueka-server-05" charset="UTF-8" />
   </component>
 </project>
