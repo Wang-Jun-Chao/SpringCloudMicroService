@@ -18,6 +18,11 @@
         <option value="$PROJECT_DIR$/sample-05/config-client-05/pom.xml" />
         <option value="$PROJECT_DIR$/sample-05/config-server-05/pom.xml" />
         <option value="$PROJECT_DIR$/sample-05/erueka-server-05/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-06/eureka-server-06/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-06/api-server-06/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-06/service-a/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-06/service-b/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-06/api-gateway-06/pom.xml" />
       </list>
     </option>
   </component>

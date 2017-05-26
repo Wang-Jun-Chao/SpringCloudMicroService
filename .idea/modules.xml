@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample-06/api-gateway-06/api-gateway-06.iml" filepath="$PROJECT_DIR$/sample-06/api-gateway-06/api-gateway-06.iml" />
+      <module fileurl="file://D:\IdeaProject\SpringCloud微服务\sample-06\api-gateway-06\api-server-06.iml" filepath="D:\IdeaProject\SpringCloud微服务\sample-06\api-gateway-06\api-server-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" filepath="$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" filepath="$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" filepath="$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" />
@@ -17,11 +19,15 @@
       <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-feign-03/eureka-feign-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-feign-03/eureka-feign-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" filepath="$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" filepath="$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/sample-01.iml" filepath="$PROJECT_DIR$/sample-01/sample-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/sample-02.iml" filepath="$PROJECT_DIR$/sample-02/sample-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/sample-03.iml" filepath="$PROJECT_DIR$/sample-03/sample-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/sample-04.iml" filepath="$PROJECT_DIR$/sample-04/sample-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/sample-05.iml" filepath="$PROJECT_DIR$/sample-05/sample-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-06/sample-06.iml" filepath="$PROJECT_DIR$/sample-06/sample-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-06/service-a/service-a.iml" filepath="$PROJECT_DIR$/sample-06/service-a/service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-06/service-b/service-b.iml" filepath="$PROJECT_DIR$/sample-06/service-b/service-b.iml" />
     </modules>
   </component>
 </project>
