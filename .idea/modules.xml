@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sample-06/api-gateway-06/api-gateway-06.iml" filepath="$PROJECT_DIR$/sample-06/api-gateway-06/api-gateway-06.iml" />
-      <module fileurl="file://D:\IdeaProject\SpringCloud微服务\sample-06\api-gateway-06\api-server-06.iml" filepath="D:\IdeaProject\SpringCloud微服务\sample-06\api-gateway-06\api-server-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" filepath="$PROJECT_DIR$/sample-01/compute-service-01/compute-service-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" filepath="$PROJECT_DIR$/sample-02/compute-service-02/compute-service-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" filepath="$PROJECT_DIR$/sample-03/compute-service-03/compute-service-03.iml" />
