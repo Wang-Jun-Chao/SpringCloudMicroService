@@ -28,6 +28,7 @@
         <module name="eureka-ribbon-02" />
         <module name="eureka-ribbon-03" />
         <module name="eureka-server-06" />
+        <module name="eureka-server-07" />
         <module name="eureka-server-07-01" />
         <module name="eureka-server-07-02" />
         <module name="service-a" />
@@ -58,6 +59,7 @@
       <module name="eureka-ribbon-02" target="1.8" />
       <module name="eureka-ribbon-03" target="1.8" />
       <module name="eureka-server-06" target="1.8" />
+      <module name="eureka-server-07" target="1.8" />
       <module name="eureka-server-07-01" target="1.8" />
       <module name="eureka-server-07-02" target="1.8" />
       <module name="service-a" target="1.8" />
