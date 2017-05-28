@@ -30,6 +30,9 @@
         <option value="$PROJECT_DIR$/sample-08/config-server-eureka-07/pom.xml" />
         <option value="$PROJECT_DIR$/sample-08/config-client-eureka-07/pom.xml" />
         <option value="$PROJECT_DIR$/sample-08/eureka-server-07/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-08/config-client-eureka-08/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-08/config-server-eureka-08/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-08/eureka-server-08/pom.xml" />
       </list>
     </option>
   </component>

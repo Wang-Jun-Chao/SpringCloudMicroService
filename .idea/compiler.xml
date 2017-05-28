@@ -15,9 +15,11 @@
         <module name="config-client-04" />
         <module name="config-client-05" />
         <module name="config-client-eureka-07" />
+        <module name="config-client-eureka-08" />
         <module name="config-server-04" />
         <module name="config-server-05" />
         <module name="config-server-eureka-07" />
+        <module name="config-server-eureka-08" />
         <module name="erueka-server-01" />
         <module name="erueka-server-02" />
         <module name="erueka-server-03" />
@@ -31,6 +33,7 @@
         <module name="eureka-server-07" />
         <module name="eureka-server-07-01" />
         <module name="eureka-server-07-02" />
+        <module name="eureka-server-08" />
         <module name="service-a" />
         <module name="service-b" />
       </profile>
@@ -45,10 +48,12 @@
       <module name="config-client-04" target="1.8" />
       <module name="config-client-05" target="1.8" />
       <module name="config-client-eureka-07" target="1.8" />
+      <module name="config-client-eureka-08" target="1.8" />
       <module name="config-repo-04" target="1.8" />
       <module name="config-server-04" target="1.8" />
       <module name="config-server-05" target="1.8" />
       <module name="config-server-eureka-07" target="1.8" />
+      <module name="config-server-eureka-08" target="1.8" />
       <module name="erueka-server-01" target="1.8" />
       <module name="erueka-server-02" target="1.8" />
       <module name="erueka-server-03" target="1.8" />
@@ -62,6 +67,7 @@
       <module name="eureka-server-07" target="1.8" />
       <module name="eureka-server-07-01" target="1.8" />
       <module name="eureka-server-07-02" target="1.8" />
+      <module name="eureka-server-08" target="1.8" />
       <module name="service-a" target="1.8" />
       <module name="service-b" target="1.8" />
     </bytecodeTargetLevel>
