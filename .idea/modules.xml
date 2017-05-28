@@ -9,8 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/sample-07/compute-service-07/compute-service-07.iml" filepath="$PROJECT_DIR$/sample-07/compute-service-07/compute-service-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" filepath="$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" filepath="$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-08/config-client-eureka-07/config-client-eureka-07.iml" filepath="$PROJECT_DIR$/sample-08/config-client-eureka-07/config-client-eureka-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" filepath="$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" filepath="$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-08/config-server-eureka-07/config-server-eureka-07.iml" filepath="$PROJECT_DIR$/sample-08/config-server-eureka-07/config-server-eureka-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" filepath="$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" filepath="$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" filepath="$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" />
@@ -28,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample-05/sample-05.iml" filepath="$PROJECT_DIR$/sample-05/sample-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/sample-06.iml" filepath="$PROJECT_DIR$/sample-06/sample-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-07/sample-07.iml" filepath="$PROJECT_DIR$/sample-07/sample-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-08/sample-08.iml" filepath="$PROJECT_DIR$/sample-08/sample-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/service-a/service-a.iml" filepath="$PROJECT_DIR$/sample-06/service-a/service-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/service-b/service-b.iml" filepath="$PROJECT_DIR$/sample-06/service-b/service-b.iml" />
     </modules>
