@@ -9,10 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/sample-07/compute-service-07/compute-service-07.iml" filepath="$PROJECT_DIR$/sample-07/compute-service-07/compute-service-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" filepath="$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" filepath="$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample-08/config-client-eureka-07/config-client-eureka-07.iml" filepath="$PROJECT_DIR$/sample-08/config-client-eureka-07/config-client-eureka-07.iml" />
+      <module fileurl="file://D:\IdeaProject\SpringCloud微服务\sample-08\config-client-eureka-08\config-client-eureka-07.iml" filepath="D:\IdeaProject\SpringCloud微服务\sample-08\config-client-eureka-08\config-client-eureka-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" filepath="$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" filepath="$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample-08/config-server-eureka-07/config-server-eureka-07.iml" filepath="$PROJECT_DIR$/sample-08/config-server-eureka-07/config-server-eureka-07.iml" />
+      <module fileurl="file://D:\IdeaProject\SpringCloud微服务\sample-08\config-server-eureka-08\config-server-eureka-07.iml" filepath="D:\IdeaProject\SpringCloud微服务\sample-08\config-server-eureka-08\config-server-eureka-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" filepath="$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" filepath="$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" filepath="$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" />
@@ -23,7 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" filepath="$PROJECT_DIR$/sample-02/eureka-ribbon-02/eureka-ribbon-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" filepath="$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample-08/eureka-server-07/eureka-server-07.iml" filepath="$PROJECT_DIR$/sample-08/eureka-server-07/eureka-server-07.iml" />
+      <module fileurl="file://D:\IdeaProject\SpringCloud微服务\sample-08\eureka-server-08\eureka-server-07.iml" filepath="D:\IdeaProject\SpringCloud微服务\sample-08\eureka-server-08\eureka-server-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/sample-01.iml" filepath="$PROJECT_DIR$/sample-01/sample-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/sample-02.iml" filepath="$PROJECT_DIR$/sample-02/sample-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/sample-03.iml" filepath="$PROJECT_DIR$/sample-03/sample-03.iml" />
