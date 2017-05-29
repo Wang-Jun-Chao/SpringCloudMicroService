@@ -10,9 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" filepath="$PROJECT_DIR$/sample-04/config-client-04/config-client-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" filepath="$PROJECT_DIR$/sample-05/config-client-05/config-client-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-08/config-client-eureka-08/config-client-eureka-08.iml" filepath="$PROJECT_DIR$/sample-08/config-client-eureka-08/config-client-eureka-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-09/config-client-eureka-kafka-09/config-client-eureka-kafka-09.iml" filepath="$PROJECT_DIR$/sample-09/config-client-eureka-kafka-09/config-client-eureka-kafka-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" filepath="$PROJECT_DIR$/sample-04/config-server-04/config-server-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" filepath="$PROJECT_DIR$/sample-05/config-server-05/config-server-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-08/config-server-eureka-08/config-server-eureka-08.iml" filepath="$PROJECT_DIR$/sample-08/config-server-eureka-08/config-server-eureka-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-09/config-server-eureka-kafka-09/config-server-eureka-kafka-09.iml" filepath="$PROJECT_DIR$/sample-09/config-server-eureka-kafka-09/config-server-eureka-kafka-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" filepath="$PROJECT_DIR$/sample-01/erueka-server-01/erueka-server-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" filepath="$PROJECT_DIR$/sample-02/erueka-server-02/erueka-server-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" filepath="$PROJECT_DIR$/sample-03/erueka-server-03/erueka-server-03.iml" />
@@ -24,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" filepath="$PROJECT_DIR$/sample-03/eureka-ribbon-03/eureka-ribbon-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" filepath="$PROJECT_DIR$/sample-06/eureka-server-06/eureka-server-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-08/eureka-server-08/eureka-server-08.iml" filepath="$PROJECT_DIR$/sample-08/eureka-server-08/eureka-server-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-09/eureka-server-09/eureka-server-09.iml" filepath="$PROJECT_DIR$/sample-09/eureka-server-09/eureka-server-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-01/sample-01.iml" filepath="$PROJECT_DIR$/sample-01/sample-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-02/sample-02.iml" filepath="$PROJECT_DIR$/sample-02/sample-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-03/sample-03.iml" filepath="$PROJECT_DIR$/sample-03/sample-03.iml" />
@@ -32,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample-06/sample-06.iml" filepath="$PROJECT_DIR$/sample-06/sample-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-07/sample-07.iml" filepath="$PROJECT_DIR$/sample-07/sample-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-08/sample-08.iml" filepath="$PROJECT_DIR$/sample-08/sample-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-09/sample-09.iml" filepath="$PROJECT_DIR$/sample-09/sample-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/service-a/service-a.iml" filepath="$PROJECT_DIR$/sample-06/service-a/service-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-06/service-b/service-b.iml" filepath="$PROJECT_DIR$/sample-06/service-b/service-b.iml" />
     </modules>
