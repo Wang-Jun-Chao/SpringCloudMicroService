@@ -26,6 +26,7 @@
     <file url="file://$PROJECT_DIR$/sample-08/config-client-eureka-08" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-08/config-server-eureka-08" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-08/eureka-server-08" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-09/config-client-eureka-kafka-09" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-09/config-server-eureka-kafka-09" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sample-09/eureka-server-09" charset="UTF-8" />
   </component>
